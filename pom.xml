@@ -6,7 +6,7 @@
 
     <groupId>com.crossover.trial</groupId>
     <artifactId>journals</artifactId>
-    <package>war</package>
+    <packaging>war</packaging>
     <version>1.0</version>
 
     <properties>
